@@ -1,9 +1,6 @@
 
 <img src="./src/assets/readme/Screenshot_01.png"/>
 <img src="./src/assets/readme/Screenshot_02.png"/>
-<img src="./src/assets/readme/Screenshot_03.png"/>
-<img src="./src/assets/readme/Screenshot_04.png"/>
-<img src="./src/assets/readme/Screenshot_05.png"/>
 
 # React + Vite
 
